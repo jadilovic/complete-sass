@@ -1,0 +1,16 @@
+{
+  "name": "sass-tutorial",
+  "version": "1.0.0",
+  "description": "sass tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "dd"
+  },
+  "author": "ja",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
+  }
+}
