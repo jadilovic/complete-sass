@@ -1,0 +1,46 @@
+// variables and functions
+@import "variables";
+@import "functions";
+
+// base and layout
+@import "base";
+
+// colors
+@import "colors";
+
+// components (button, card, navbar)
+@import "components/card.scss";
+@import "components/button";
+
+// utilities (margin, padding, opacity)
+@import "utilities";
+@import "breakpoints";
+@import "grid";
+
+// button {
+//   color: white;
+//   border: 0;
+//   background-color: $primary;
+//   border-radius: $base-border-radius;
+//   padding: $base-padding;
+// }
+
+// .error {
+//   color: $error;
+//   border-color: $error;
+//   border-style: solid;
+//   padding: $base-padding;
+//   margin: $base-margin;
+//   border-radius: $base-border-radius;
+//   border-width: $base-border-thickness;
+// }
+
+// .notification {
+//   color: $secondary;
+//   border-color: $secondary;
+//   border-style: solid;
+//   padding: $base-padding;
+//   margin: $base-margin;
+//   border-radius: $base-border-radius;
+//   border-width: $base-border-thickness;
+// }
